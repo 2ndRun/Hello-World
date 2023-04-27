@@ -2,4 +2,4 @@
 Git experiment
 
 New
-This is new stuff. It's very new
+This is new stuff. It's very new.
